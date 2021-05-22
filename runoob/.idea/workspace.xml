@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c1d5d4-12dd-4dae-989a-76ff4e0eb5c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/exp1_hello.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,54 +43,54 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Go Build.go build exp8_func1.go">
-    <configuration name="go build exp7.loop1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build exp9_array7.go">
+    <configuration name="go build exp9_array3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="runoob" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exp7.loop1.go" />
+      <filePath value="$PROJECT_DIR$/exp9_array3.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exp7_loop2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exp9_array4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="runoob" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exp7_loop2.go" />
+      <filePath value="$PROJECT_DIR$/exp9_array4.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exp7_loop3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exp9_array5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="runoob" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exp7_loop3.go" />
+      <filePath value="$PROJECT_DIR$/exp9_array5.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exp7_loop4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exp9_array6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="runoob" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exp7_loop4.go" />
+      <filePath value="$PROJECT_DIR$/exp9_array6.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exp8_func1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exp9_array7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="runoob" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exp8_func1.go" />
+      <filePath value="$PROJECT_DIR$/exp9_array7.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exp8_func1.go" />
-        <item itemvalue="Go Build.go build exp7_loop4.go" />
-        <item itemvalue="Go Build.go build exp7_loop3.go" />
-        <item itemvalue="Go Build.go build exp7_loop2.go" />
-        <item itemvalue="Go Build.go build exp7.loop1.go" />
+        <item itemvalue="Go Build.go build exp9_array7.go" />
+        <item itemvalue="Go Build.go build exp9_array6.go" />
+        <item itemvalue="Go Build.go build exp9_array5.go" />
+        <item itemvalue="Go Build.go build exp9_array4.go" />
+        <item itemvalue="Go Build.go build exp9_array3.go" />
       </list>
     </recent_temporary>
   </component>
